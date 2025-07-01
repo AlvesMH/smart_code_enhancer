@@ -1,6 +1,4 @@
-gradio==4.28.3               
-fastapi<0.110                
-starlette<0.36               
-pydantic<2                   
+# requirements.txt
+gradio==4.44.1          
 requests==2.32.3
 python-dotenv==1.0.1
