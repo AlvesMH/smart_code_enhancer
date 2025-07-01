@@ -1,4 +1,6 @@
 # requirements.txt
-gradio==4.44.1          
+gradio==4.44.1
 requests==2.32.3
 python-dotenv==1.0.1
+pyaudioop==0.7.3          
+
