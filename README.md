@@ -4,7 +4,7 @@ A **one-click code reviewer** that spots bugs, suggests improvements, checks PEP
 Powered entirely by the **SEA-LION hosted LLM API** (no GPU, no Docker, no local weights) and wrapped in a clean Gradio UI that runs happily on Render’s free tier.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/000000/sea-lion-screenshot.png" alt="screenshot" width="760">
+  <img src="screenshot.jpg" alt="screenshot" width="760">
 </p>
 
 ---
