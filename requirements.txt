@@ -1,5 +1,5 @@
 # requirements.txt
-gradio==4.44.1
+gradio>=5.47.2
 requests==2.32.3
 python-dotenv==1.0.1
 audioop-lts>=0.1.0     
