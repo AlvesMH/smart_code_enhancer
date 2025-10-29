@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()                                     # enables local .env use
 API_KEY   = os.getenv("SEA_LION_API_KEY")         # set on Render dashboard
 BASE_URL  = "https://api.sea-lion.ai/v1/chat/completions"
-DEFAULT_MODEL = "aisingapore/Gemma-SEA-LION-v3-9B-IT"  # overrideable in UI
+DEFAULT_MODEL = "aisingapore/Gemma-SEA-LION-v4-27B-IT"  # overrideable in UI
 HEADERS   = {
     "Authorization": f"Bearer {API_KEY}",
     "Content-Type": "application/json"
